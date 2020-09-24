@@ -9,3 +9,14 @@ else:
   print("welcome :)")
   input()
   print("comming soon")
+  def cool:
+    print("ass")
+  cool()
+  sine = -1
+  if sine == 0:
+    print("big hmm")
+  else:
+    print('fank u')
+    print("also welcome back")
+    input()
+    print("c o m m i n g, s o o n.")
